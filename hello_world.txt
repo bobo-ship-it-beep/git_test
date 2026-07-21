@@ -1,2 +1,3 @@
 Hello World!
 be careful
+Life might be hard!
